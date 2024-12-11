@@ -1,4 +1,11 @@
 
 //Trabalhando no login
 
-//Finalizando sistema de logingit
+//Finalizando sistema de login
+
+function login(nome) {
+    return nome;
+}
+
+// Sistema de login completo
+//Retornamos o nome do usuario quando logado 
